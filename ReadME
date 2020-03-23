@@ -4,7 +4,7 @@
 - Punktestandzähler [Jonas Bartl]
 - Datenbank [Louis Erdmann]
 - Datenbank-Picker-Methode + Fächersortierung und Stufensortierung (Für 2 Personen)
-- Win-Screen/Benachrichtigung
+- Win-Screen/Benachrichtigung  [Max Kuffer]
 - Hautmenü-Methoden(Spielstart, anzeige Anleitung etc.)
 - Joker-Methode
 - Fächerwahl-CheckboxMethode
@@ -25,7 +25,7 @@ Fächer:
 - Spanisch
 - Chemie
 - Biologie
-- Geographie
+- Geographie  [Philipp Weißkirchen]
 - Geschichte (& Sozialkunde) [Louis Erdmann]
 - Religion
-- Infomatik
+- Infomatik  [Max Kuffer]
