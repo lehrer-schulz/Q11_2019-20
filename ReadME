@@ -10,6 +10,9 @@
 - Fächerwahl-CheckboxMethode
 - Anleitung schreiben und credits Seite
 
+//NB (Schulz): wer sich im Programmieren allgemein nicht ganz so fit fühlt,
+kann bzw soll auch gerne nochmal von Grund auf die Liste implementieren.
+Wir setzen hier nicht auf die von Java vorgegebene Implementierung.
 
 //Zusätzlich muss sich jeder für ein Thema eintragen und pro Jahrgangsstufe 3 Fragen beitragen//
 //in Eckigen Klammern hinter dem FachBereich den ihr bearbeitet Namen eintragen//
