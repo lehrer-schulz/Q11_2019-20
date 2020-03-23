@@ -1,0 +1,28 @@
+//Hier jeder für einen Teilbereich den er bearbeiten möchte eintragen(Namen in Eckigen Klammern hinter dem AufgabenBereich schreiben)//
+- Organisation [Raphael v. Hoch]
+- UserInterface Design
+- Punktestandzähler
+- Datenbank [Louis Erdmann]
+- Datenbank-Picker-Methode + Fächersortierung und Stufensortierung (Für 2 Personen)
+- Win-Screen/Benachrichtigung
+- Hautmenü-Methoden(Spielstart, anzeige Anleitung etc.)
+- Joker-Methode
+- Fächerwahl-CheckboxMethode
+- Anleitung schreiben und credits Seite
+
+
+//Zusätzlich muss sich jeder für ein Thema eintragen und pro Jahrgangsstufe 3 Fragen beitragen//
+//in Eckigen Klammern hinter dem FachBereich den ihr bearbeitet Namen eintragen//
+Fächer:
+- Mathe
+- Deutsch
+- Englisch
+- Latein
+- Französisch
+- Spanisch
+- Chemie
+- Biologie
+- Geographie
+- Geschichte (& Sozialkunde)
+- Religion
+- Infomatik
