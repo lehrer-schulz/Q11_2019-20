@@ -1,7 +1,7 @@
 //Hier jeder für einen Teilbereich den er bearbeiten möchte eintragen(Namen in Eckigen Klammern hinter dem AufgabenBereich schreiben)//
 - Organisation [Raphael v. Hoch]
 - UserInterface Design
-- Punktestandzähler
+- Punktestandzähler [Jonas Bartl]
 - Datenbank [Louis Erdmann]
 - Datenbank-Picker-Methode + Fächersortierung und Stufensortierung (Für 2 Personen)
 - Win-Screen/Benachrichtigung
@@ -17,7 +17,7 @@ Wir setzen hier nicht auf die von Java vorgegebene Implementierung.
 //Zusätzlich muss sich jeder für ein Thema eintragen und pro Jahrgangsstufe 3 Fragen beitragen//
 //in Eckigen Klammern hinter dem FachBereich den ihr bearbeitet Namen eintragen//
 Fächer:
-- Mathe
+- Mathe [Jonas Bartl]
 - Deutsch
 - Englisch
 - Latein
