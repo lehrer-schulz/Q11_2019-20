@@ -1,14 +1,13 @@
 //Hier jeder für einen Teilbereich den er bearbeiten möchte eintragen(Namen in Eckigen Klammern hinter dem AufgabenBereich schreiben)//
 - Organisation [Raphael v. Hoch]
-- UserInterface Design
-- Punktestandzähler [Jonas Bartl]
+- UserInterface Design & Win-Screen/Benachrichtigung [Christian Kindl & Max Kuffer]
+- Punktestandzähler [Philipp Weißkirchen]
 - Datenbank [Louis Erdmann]
 - Datenbank-Picker-Methode + Fächersortierung und Stufensortierung (Für 2 Personen)
-- Win-Screen/Benachrichtigung
 - Hautmenü-Methoden(Spielstart, anzeige Anleitung etc.)
-- Joker-Methode
+- Joker-Methode [Jonas Bartl]
 - Fächerwahl-CheckboxMethode
-- Anleitung schreiben und credits Seite
+- Anleitung schreiben und credits Seite  [Fabian Schilling]
 
 //NB (Schulz): wer sich im Programmieren allgemein nicht ganz so fit fühlt,
 kann bzw soll auch gerne nochmal von Grund auf die Liste implementieren.
@@ -18,14 +17,14 @@ Wir setzen hier nicht auf die von Java vorgegebene Implementierung.
 //in Eckigen Klammern hinter dem FachBereich den ihr bearbeitet Namen eintragen//
 Fächer:
 - Mathe [Jonas Bartl]
-- Deutsch
+- Deutsch  [Fabian Schilling]
 - Englisch
 - Latein
 - Französisch
-- Spanisch
+- Spanisch [Raphael v.Hoch]
 - Chemie
-- Biologie
-- Geographie
+- Biologie [Max Kuffer]
+- Geographie  [Philipp Weißkirchen]
 - Geschichte (& Sozialkunde) [Louis Erdmann]
-- Religion
-- Infomatik
+- Religion [Christian Kindl]
+- Infomatik  
