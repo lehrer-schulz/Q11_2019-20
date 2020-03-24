@@ -1,10 +1,9 @@
 //Hier jeder für einen Teilbereich den er bearbeiten möchte eintragen(Namen in Eckigen Klammern hinter dem AufgabenBereich schreiben)//
 - Organisation [Raphael v. Hoch]
-- UserInterface Design [Christian Kindl]
+- UserInterface Design & Win-Screen/Benachrichtigung [Christian Kindl & Max Kuffer]
 - Punktestandzähler [Jonas Bartl]
 - Datenbank [Louis Erdmann]
 - Datenbank-Picker-Methode + Fächersortierung und Stufensortierung (Für 2 Personen)
-- Win-Screen/Benachrichtigung  [Max Kuffer]
 - Hautmenü-Methoden(Spielstart, anzeige Anleitung etc.)
 - Joker-Methode
 - Fächerwahl-CheckboxMethode
