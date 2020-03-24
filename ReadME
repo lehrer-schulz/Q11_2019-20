@@ -1,11 +1,11 @@
 //Hier jeder für einen Teilbereich den er bearbeiten möchte eintragen(Namen in Eckigen Klammern hinter dem AufgabenBereich schreiben)//
 - Organisation [Raphael v. Hoch]
 - UserInterface Design & Win-Screen/Benachrichtigung [Christian Kindl & Max Kuffer]
-- Punktestandzähler [Jonas Bartl]
+- Punktestandzähler [Philipp Weißkirchen]
 - Datenbank [Louis Erdmann]
 - Datenbank-Picker-Methode + Fächersortierung und Stufensortierung (Für 2 Personen)
 - Hautmenü-Methoden(Spielstart, anzeige Anleitung etc.)
-- Joker-Methode
+- Joker-Methode [Jonas Bartl]
 - Fächerwahl-CheckboxMethode
 - Anleitung schreiben und credits Seite  [Fabian Schilling]
 
@@ -27,4 +27,4 @@ Fächer:
 - Geographie  [Philipp Weißkirchen]
 - Geschichte (& Sozialkunde) [Louis Erdmann]
 - Religion [Christian Kindl]
-- Infomatik  [Max Kuffer]
+- Infomatik  
