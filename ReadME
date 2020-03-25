@@ -4,7 +4,7 @@
 - Punktestandzähler [Philipp Weißkirchen]
 - Datenbank [Louis Erdmann]
 - Datenbank-Picker-Methode + Fächersortierung und Stufensortierung (Für 2 Personen)
-- Hautmenü-Methoden(Spielstart, anzeige Anleitung etc.)
+- Hautmenü-Methoden(Spielstart, anzeige Anleitung etc.) [Severin Seifert]
 - Joker-Methode [Jonas Bartl]
 - Fächerwahl-CheckboxMethode
 - Anleitung schreiben und credits Seite  [Fabian Schilling]
