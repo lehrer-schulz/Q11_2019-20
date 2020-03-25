@@ -6,7 +6,7 @@
 - Datenbank-Picker-Methode + Fächersortierung und Stufensortierung (Für 2 Personen)
 - Hautmenü-Methoden(Spielstart, anzeige Anleitung etc.)
 - Joker-Methode [Jonas Bartl]
-- Fächerwahl-CheckboxMethode
+- Fächerwahl-CheckboxMethode [Colin Nikol]
 - Anleitung schreiben und credits Seite  [Fabian Schilling]
 
 //NB (Schulz): wer sich im Programmieren allgemein nicht ganz so fit fühlt,
@@ -18,7 +18,7 @@ Wir setzen hier nicht auf die von Java vorgegebene Implementierung.
 Fächer:
 - Mathe [Jonas Bartl]
 - Deutsch  [Fabian Schilling]
-- Englisch
+- Englisch [Colin Nikol]
 - Latein
 - Französisch
 - Spanisch [Raphael v.Hoch]
