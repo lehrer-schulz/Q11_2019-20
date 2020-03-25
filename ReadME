@@ -3,10 +3,10 @@
 - UserInterface Design & Win-Screen/Benachrichtigung [Christian Kindl & Max Kuffer]
 - Punktestandzähler [Philipp Weißkirchen]
 - Datenbank [Louis Erdmann]
-- Datenbank-Picker-Methode + Fächersortierung und Stufensortierung (Für 2 Personen)
+- Datenbank-Picker-Methode + Fächersortierung und Stufensortierung [Colin Nikol & Johanes Rupprecht]
 - Hautmenü-Methoden(Spielstart, anzeige Anleitung etc.) [Severin Seifert]
 - Joker-Methode [Jonas Bartl]
-- Fächerwahl-CheckboxMethode [Colin Nikol]
+- Fächerwahl-CheckboxMethode
 - Anleitung schreiben und credits Seite  [Fabian Schilling]
 
 //NB (Schulz): wer sich im Programmieren allgemein nicht ganz so fit fühlt,
