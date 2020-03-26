@@ -1,9 +1,9 @@
 //Hier jeder für einen Teilbereich den er bearbeiten möchte eintragen(Namen in Eckigen Klammern hinter dem AufgabenBereich schreiben)//
 - Organisation [Raphael v. Hoch]
 - UserInterface Design & Win-Screen/Benachrichtigung [Christian Kindl & Max Kuffer]
-- Punktestandzähler [Philipp Weißkirchen]
+- Punktestandzähler und Scorespeicherung [Philipp Weißkirchen]
 - Datenbank [Louis Erdmann]
-- Datenbank-Picker-Methode + Fächersortierung und Stufensortierung [Colin Nikol & Johanes Rupprecht]
+- Datenbank-Picker-Methode + Fächersortierung und Stufensortierung + Spielverlauf [Colin Nikol & Johanes Rupprecht]
 - Hautmenü-Methoden(Spielstart, anzeige Anleitung etc.) [Severin Seifert]
 - Joker-Methode [Jonas Bartl]
 - Fächerwahl-CheckboxMethode
@@ -20,7 +20,7 @@ Fächer:
 - Deutsch  [Fabian Schilling]
 - Englisch [Colin Nikol]
 - Latein [Johannes Rupprecht]
-- Französisch
+- Französisch [Philipp Weißkirchen]
 - Spanisch [Raphael v.Hoch]
 - Chemie  [Severin Seifert]
 - Biologie [Max Kuffer]
