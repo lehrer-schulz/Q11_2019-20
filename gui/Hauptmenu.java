@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 
+package gui;
 
 import javax.swing.UnsupportedLookAndFeelException;
 
