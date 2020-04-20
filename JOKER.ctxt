@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=JOKER
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SPIEL\ here.\r\n\r\n\ @author\ (Jonas\ Bartl)\r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=JOKER()
+comment1.text=\r\n\ \!\!\!\ Konstruktor\ setzt\ Joker-Anzahl\ auf\ 3\ \!\!\!\r\n
+comment2.params=
+comment2.target=void\ fiftyJoker()
+comment2.text=\r\n\ Methode\ f\u00FCr\ den\ 50/50\ Joker.\ Die\ Fragen\ bekommen\ eine\ Joker-Zahl\ j.\ \r\n\ Je\ nach\ dem\ welche\ Zahl\ sie\ hat\ sind\ dann\ die\ folgenden\ Antworten\ richtig.\ \r\n\ \r\n\ \!\!\!\ Nur\ ein\ Entwurf\ und\ Idee,\ wird\ wom\u00F6glich\ so\ nicht\ ganz\ funktionieren\!\!\!\r\n\ \!\!\!\ Streicht\ falsche\ Antworten\ nicht\ weg\ sondern\ gibt\ nur\ einen\ Tipp\ \ \ \ \!\!\!\r\n\ \!\!\!\ \u00C4ndert\ nichts\ am\ GUI\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \!\!\!\ \r\n
+numComments=3

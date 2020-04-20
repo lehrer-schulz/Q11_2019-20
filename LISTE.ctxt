@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LISTE
+comment1.params=
+comment1.target=LISTE()
+comment2.params=dNeu
+comment2.target=void\ HintenEinfuegen(DATENELEMENT)
+comment3.params=
+comment3.target=void\ PickerZuListe()
+numComments=4

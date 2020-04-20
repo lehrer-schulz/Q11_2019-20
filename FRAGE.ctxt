@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FRAGE
+comment1.params=frage_\ antwort1_\ antwort2_\ antwort3_\ antwort4_\ jahr_\ fach_
+comment1.target=FRAGE(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ InformationAusgeben()
+comment3.params=
+comment3.target=java.lang.String\ FrageGeben()
+numComments=4

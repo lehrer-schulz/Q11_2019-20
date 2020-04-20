@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DBConnection
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=id
+comment2.target=java.lang.String\ marieDBConnGetFrage(int)
+comment3.params=id\ antwort
+comment3.target=java.lang.String\ marieDBConnGetAntwort(int,\ int)
+comment4.params=id
+comment4.target=java.lang.String\ marieDBConnGetFach(int)
+comment5.params=id
+comment5.target=int\ marieDBConnGetJahr(int)
+numComments=6

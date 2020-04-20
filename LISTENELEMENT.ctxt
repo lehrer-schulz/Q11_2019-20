@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LISTENELEMENT
+comment1.params=dNeu
+comment1.target=KNOTEN\ HintenEinfuegen(DATENELEMENT)
+comment2.params=dVergleich
+comment2.target=LISTENELEMENT\ KnotenEntfernen(DATENELEMENT)
+comment3.params=dAkt
+comment3.target=DATENELEMENT\ EndeGeben(DATENELEMENT)
+comment4.params=dEnde
+comment4.target=LISTENELEMENT\ EndeEntfernen(DATENELEMENT)
+comment5.params=
+comment5.target=DATENELEMENT\ DatenelementGeben()
+comment6.params=
+comment6.target=LISTENELEMENT\ NachfolgerGeben()
+comment7.params=
+comment7.target=void\ InformationAusgeben()
+comment8.params=
+comment8.target=int\ RestlaengeGeben()
+numComments=9
